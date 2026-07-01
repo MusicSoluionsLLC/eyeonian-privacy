@@ -4,7 +4,11 @@ Last updated: June 30, 2026
 
 This Privacy Policy describes how Music Solutions LLC ("Music Solutions," "we," "us") handles information in connection with EyeOnian (the "app"), across its native applications (Android, iOS, iPadOS, and macOS) and its web version, together with the related website and services (collectively, the "Service").
 
-The short version: the native EyeOnian apps collect no personal data and work fully offline. The web version collects only what is needed to process your purchase and run the app. We do not use advertising trackers, and we never receive your payment card details.
+The native EyeOnian apps collect no personal data and work fully offline.
+
+The web version collects only what is needed to process your purchase and run the app.
+
+We do not use advertising trackers, and we never receive your payment card details.
 
 ## Native apps (Android, iOS, iPadOS, macOS)
 
