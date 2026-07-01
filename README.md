@@ -1,4 +1,4 @@
-<p>Last updated: June 27, 2026</p>
+<p>Last updated: June 30, 2026</p>
 
 This privacy policy applies to the EyeOnian app for mobile devices and web browsers, together with any related services operated by Music Solutions LLC (collectively, the "Application"). Music Solutions LLC is hereby referred to as the "Service Provider".
 
