@@ -20,11 +20,11 @@ Purchases in the native apps are handled by the app store you downloaded from �
 
 The web version of EyeOnian collects only the limited information described below.
 
-**Purchases and access.** We use RevenueCat to manage purchases and unlock paid features. RevenueCat records your purchase history using an anonymous identifier; it does not receive your name or email unless you provide it. RevenueCat stores this data on servers located in the United States (Amazon Web Services).
+***Purchases and access.*** We use RevenueCat to manage purchases and unlock paid features. RevenueCat records your purchase history using an anonymous identifier; it does not receive your name or email unless you provide it. RevenueCat stores this data on servers located in the United States (Amazon Web Services).
 
-**Payment.** Payments on the web are processed by Stripe. To complete a purchase, Stripe collects your email address and payment details. We never receive or store your payment card information — it is handled entirely by Stripe under its own privacy policy. We may receive your email address from Stripe to associate with your purchase and to send purchase-related notices.
+***Payment.*** Payments on the web are processed by Stripe. To complete a purchase, Stripe collects your email address and payment details. We never receive or store your payment card information — it is handled entirely by Stripe under its own privacy policy. We may receive your email address from Stripe to associate with your purchase and to send purchase-related notices.
 
-**App functionality.** To run the interactive parts of EyeOnian on the web, the queries and configurations you create in the app are processed on our servers (hosted by Cloudflare) rather than only on your device, so that results can be returned to you within the app. We do not use this information to build a profile of you or for advertising.
+***App functionality.*** To run the interactive parts of EyeOnian on the web, the queries and configurations you create in the app are processed on our servers (hosted by Cloudflare) rather than only on your device, so that results can be returned to you within the app. We do not use this information to build a profile of you or for advertising.
 
 We do not sell or share your personal information, and we do not use advertising trackers.
 
@@ -42,7 +42,7 @@ We never receive or store your payment card details. On the native apps, payment
 
 Depending on where you live, you may have the right to access, correct, or delete the personal information we hold about you, and to withdraw consent where processing is based on consent. Because the native apps collect nothing, these rights are most relevant to the web version. To make a request, contact us at info@eyeonian.com.
 
-**California residents (CCPA/CPRA).** If you are a California resident, you have the right to know what personal information we collect, to delete it, to opt out of its sale or sharing, and to non-discrimination for exercising these rights. We do not sell or share personal information. To exercise your rights, contact us at info@eyeonian.com.
+***California residents (CCPA/CPRA).*** If you are a California resident, you have the right to know what personal information we collect, to delete it, to opt out of its sale or sharing, and to non-discrimination for exercising these rights. We do not sell or share personal information. To exercise your rights, contact us at info@eyeonian.com.
 
 ## International data transfers
 
